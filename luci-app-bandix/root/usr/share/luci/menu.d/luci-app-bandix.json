@@ -1,7 +1,7 @@
 {
-	"admin/network/bandix": {
+	"admin/services/bandix": {
 		"title": "Bandix",
-		"order": 10,
+		"order": 90,
 		"action": {
 			"type": "alias",
 			"path": "admin/network/bandix/index"
