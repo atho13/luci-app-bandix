@@ -6,7 +6,7 @@ from multiprocessing import Pool, cpu_count
 
 target_folder = "luci-app-bandix/po"
 
-translator = GoogleTranslator(source='zh-CN', target='en')
+translator = GoogleTranslator(source='zh-CN', target='id')
 
 chinese_pattern = re.compile(r'[\u4e00-\u9fff]+')
 
