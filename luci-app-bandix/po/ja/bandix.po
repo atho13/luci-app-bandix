@@ -6,16 +6,16 @@ msgid "Bandix Traffic Monitor"
 msgstr "Bandix トラフィックモニター"
 
 msgid "Loading data..."
-msgstr "データを読み込み中..."
+msgstr "データをmengenaliみ込みtengah..."
 
 msgid "Unable to fetch data"
-msgstr "データを取得できません"
+msgstr "データをmemperolehできません"
 
 msgid "Unable to fetch history data"
-msgstr "履歴データを取得できません"
+msgstr "melanjutkanデータをmemperolehできません"
 
 msgid "Hostname"
-msgstr "ホスト名"
+msgstr "ホストnama"
 
 msgid "IP Address"
 msgstr "IPアドレス"
@@ -24,34 +24,34 @@ msgid "MAC Address"
 msgstr "MACアドレス"
 
 msgid "Download Speed"
-msgstr "ダウンロード速度"
+msgstr "ダウンロードkecepatan"
 
 msgid "Upload Speed"
-msgstr "アップロード速度"
+msgstr "アップロードkecepatan"
 
 msgid "Total Download"
-msgstr "総ダウンロード量"
+msgstr "総ダウンロードkuantitas"
 
 msgid "Total Upload"
-msgstr "総アップロード量"
+msgstr "総アップロードkuantitas"
 
 msgid "Download Limit"
-msgstr "ダウンロード制限"
+msgstr "ダウンロードmembatasi"
 
 msgid "Upload Limit"
-msgstr "アップロード制限"
+msgstr "アップロードmembatasi"
 
 msgid "Interface Language"
-msgstr "インターフェース言語"
+msgstr "インターフェースpidato"
 
 msgid "Select the display language for Bandix Traffic Monitor"
-msgstr "Bandix トラフィックモニターの表示言語を選択"
+msgstr "Bandix トラフィックモニターのmengungkapkan pidatoをMemilih"
 
 msgid "Device Info"
-msgstr "デバイス情報"
+msgstr "デバイスintelijen"
 
 msgid "Device List"
-msgstr "デバイス一覧"
+msgstr "デバイスSebuah daftar"
 
 msgid "LAN Traffic"
 msgstr "LAN トラフィック"
@@ -63,10 +63,10 @@ msgid "Network Type"
 msgstr "ネットワークタイプ"
 
 msgid "Rate Limit"
-msgstr "速度制限"
+msgstr "batas kecepatan"
 
 msgid "Actions"
-msgstr "操作"
+msgstr "beroperasi"
 
 msgid "Online Devices"
 msgstr "オンラインデバイス"
@@ -75,94 +75,94 @@ msgid "WAN Only"
 msgstr "WAN トラフィックのみ"
 
 msgid "Settings"
-msgstr "設定"
+msgstr "Pengaturan"
 
 msgid "Device Settings"
-msgstr "デバイス設定"
+msgstr "デバイスPengaturan"
 
 msgid "Rate Limits"
-msgstr "速度制限"
+msgstr "batas kecepatan"
 
 msgid "Remove Rate Limit"
-msgstr "速度制限を解除"
+msgstr "batas kecepatanをMengangkat"
 
 msgid "Save"
-msgstr "保存"
+msgstr "menyimpan"
 
 msgid "Cancel"
 msgstr "キャンセル"
 
 msgid "Set Rate Limit"
-msgstr "速度制限を設定"
+msgstr "batas kecepatanをPengaturan"
 
 msgid "Device"
 msgstr "デバイス"
 
 msgid "Set Hostname"
-msgstr "ホスト名を設定"
+msgstr "ホストnamaをPengaturan"
 
 msgid "Please enter hostname"
-msgstr "ホスト名を入力してください"
+msgstr "ホストnamaをMasukkan kekuatanしてください"
 
 msgid "Hostname set successfully"
-msgstr "ホスト名の設定に成功しました"
+msgstr "ホストnamaのPengaturanにkesuksesanしました"
 
 msgid "Failed to set hostname"
-msgstr "ホスト名の設定に失敗しました"
+msgstr "ホストnamaのPengaturanにGagalしました"
 
 msgid "Unlimited"
-msgstr "無制限"
+msgstr "Tidak ada batasan"
 
 msgid "Settings saved successfully"
-msgstr "設定を保存しました"
+msgstr "Pengaturanをmenyimpanしました"
 
 msgid "Failed to save settings"
-msgstr "設定の保存に失敗しました"
+msgstr "PengaturanのmenyimpanにGagalしました"
 
 msgid "Please enter a valid speed value"
-msgstr "有効な速度値を入力してください"
+msgstr "sahなnilai kecepatanをMasukkan kekuatanしてください"
 
 msgid "Speed value must be greater than 0"
-msgstr "速度値は0より大きい必要があります"
+msgstr "nilai kecepatanは0よりbesarきいdiperlukanがあります"
 
 msgid "Saving..."
-msgstr "保存中..."
+msgstr "Penghematan..."
 
 msgid "Rate limiting only applies to WAN traffic."
-msgstr "速度制限は WAN トラフィックにのみ適用されます。一部のLAN内部トラフィックは、ハードウェアスイッチングアクセラレーションにより監視されない場合があります。"
+msgstr "batas kecepatanは WAN トラフィックにのみBerlakuされます。Bagian satuのLANinternトラフィックは、ハードウェアスイッチングアクセラレーションによりmemantauされないkesempatanがあります。"
 
 msgid "Tip: Enter 0 for unlimited"
-msgstr "ヒント：0を入力すると無制限になります"
+msgstr "ヒント：0をMasukkan kekuatanするとTidak ada batasanになります"
 
 msgid "Traffic History"
-msgstr "トラフィック履歴"
+msgstr "トラフィックmelanjutkan"
 
 msgid "Realtime Traffic Trends"
 msgstr "リアルタイムトラフィックトレンド"
 
 msgid "Select Device"
-msgstr "デバイスを選択"
+msgstr "デバイスをMemilih"
 
 msgid "All Devices"
 msgstr "すべてのデバイス"
 
 msgid "Time Range"
-msgstr "時間範囲"
+msgstr "rentang waktu"
 
 msgid "Last 5 minutes"
-msgstr "過去5分"
+msgstr "masa lalu5titik"
 
 msgid "Last 30 minutes"
-msgstr "過去30分"
+msgstr "masa lalu30titik"
 
 msgid "Last 2 hours"
-msgstr "過去2時間"
+msgstr "masa lalu2waktu"
 
 msgid "Type"
 msgstr "タイプ"
 
 msgid "Total"
-msgstr "合計"
+msgstr "total"
 
 msgid "LAN"
 msgstr "LAN トラフィック"
@@ -171,37 +171,37 @@ msgid "WAN"
 msgstr "WAN トラフィック"
 
 msgid "Refresh"
-msgstr "更新"
+msgstr "memperbarui"
 
 msgid "Upload Rate"
-msgstr "アップロード速度"
+msgstr "アップロードkecepatan"
 
 msgid "Download Rate"
-msgstr "ダウンロード速度"
+msgstr "ダウンロードkecepatan"
 
 msgid "Last"
-msgstr "最後"
+msgstr "Akhirnya"
 
 msgid "second"
-msgstr "秒"
+msgstr "Kedua"
 
 msgid "minute"
-msgstr "分"
+msgstr "titik"
 
 msgid "hour"
-msgstr "時間"
+msgstr "waktu"
 
 msgid "day"
-msgstr "日"
+msgstr "hari"
 
 msgid "week"
-msgstr "週"
+msgstr "pekan"
 
 msgid "Other Rates"
-msgstr "その他の速度"
+msgstr "そのDiaのkecepatan"
 
 msgid "Cumulative"
-msgstr "累計トラフィック"
+msgstr "kumulatifトラフィック"
 
 msgid "Total Uploaded"
 msgstr "総アップロード"
@@ -222,76 +222,76 @@ msgid "WAN Downloaded"
 msgstr "WAN ダウンロード済み"
 
 msgid "Total Upload"
-msgstr "総アップロード速度"
+msgstr "総アップロードkecepatan"
 
 msgid "Total Download"
-msgstr "総ダウンロード速度"
+msgstr "総ダウンロードkecepatan"
 
 msgid "LAN Upload"
-msgstr "LAN アップロード速度"
+msgstr "LAN アップロードkecepatan"
 
 msgid "LAN Download"
-msgstr "LAN ダウンロード速度"
+msgstr "LAN ダウンロードkecepatan"
 
 msgid "WAN Upload"
-msgstr "WAN アップロード速度"
+msgstr "WAN アップロードkecepatan"
 
 msgid "WAN Download"
-msgstr "WAN ダウンロード速度"
+msgstr "WAN ダウンロードkecepatan"
 
 msgid "Never Online"
 msgstr "オンラインになったことがありません"
 
 msgid "Just Now"
-msgstr "たった今"
+msgstr "たったSekarang"
 
 msgid "min ago"
-msgstr "分前"
+msgstr "Sebelum membagi"
 
 msgid "h ago"
-msgstr "時間前"
+msgstr "waktu yang lalu"
 
 msgid "days ago"
-msgstr "日前"
+msgstr "Beberapa hari yang lalu"
 
 msgid "months ago"
-msgstr "ヶ月前"
+msgstr "ヶbulan yang lalu"
 
 msgid "years ago"
-msgstr "年前"
+msgstr "tahun yang lalu"
 
 msgid "Last Online"
-msgstr "最終オンライン"
+msgstr "pada akhirnyaオンライン"
 
 msgid "Zoom"
 msgstr "ズーム"
 
 msgid "Sort By"
-msgstr "並び替え"
+msgstr "Danびuntukえ"
 
 msgid "Online Status"
-msgstr "オンライン状態"
+msgstr "オンラインStatus"
 
 msgid "Total Traffic"
 msgstr "総トラフィック"
 
 msgid "Ascending"
-msgstr "昇順"
+msgstr "Shengshun"
 
 msgid "Descending"
-msgstr "降順"
+msgstr "Menyerah"
 
 msgid "Sort by Speed"
-msgstr "速度で並び替え"
+msgstr "kecepatanでDanびuntukえ"
 
 msgid "Sort by Traffic"
-msgstr "トラフィックで並び替え"
+msgstr "トラフィックでDanびuntukえ"
 
 msgid "Simple Mode"
 msgstr "シンプルモード"
 
 msgid "Detailed Mode"
-msgstr "詳細モード"
+msgstr "Terperinciモード"
 
 msgid "Bandix DNS Monitor"
 msgstr "Bandix DNS モニター"
@@ -300,25 +300,25 @@ msgid "DNS Monitor"
 msgstr "DNS モニター"
 
 msgid "DNS Query Records"
-msgstr "DNS クエリ記録"
+msgstr "DNS クエリcatatan"
 
 msgid "DNS Statistics"
-msgstr "DNS 統計情報"
+msgstr "DNS informasi statistik"
 
 msgid "DNS Monitoring Disabled"
-msgstr "DNS監視が無効です"
+msgstr "DNSmemantauがTidak sahです"
 
 msgid "Please enable DNS monitoring in settings"
-msgstr "設定でDNS監視を有効にしてください"
+msgstr "PengaturanでDNSmemantauをsahにしてください"
 
 msgid "Go to Settings"
-msgstr "設定に移動"
+msgstr "Pengaturanにbergerak"
 
 msgid "No Data"
 msgstr "データなし"
 
 msgid "Time"
-msgstr "時間"
+msgstr "waktu"
 
 msgid "Domain"
 msgstr "ドメイン"
@@ -327,22 +327,22 @@ msgid "Query Type"
 msgstr "クエリタイプ"
 
 msgid "Response Code"
-msgstr "応答コード"
+msgstr "menjawabコード"
 
 msgid "Response Time"
-msgstr "応答時間"
+msgstr "Waktu menjawab"
 
 msgid "Source IP"
-msgstr "送信元IP"
+msgstr "kirim elemen pesanIP"
 
 msgid "Destination IP"
-msgstr "宛先IP"
+msgstr "Wan XianIP"
 
 msgid "Response IPs"
-msgstr "応答IP"
+msgstr "menjawabIP"
 
 msgid "Response Result"
-msgstr "応答結果"
+msgstr "Hasil jawaban"
 
 msgid "DNS Server"
 msgstr "DNSサーバー"
@@ -351,7 +351,7 @@ msgid "Query"
 msgstr "クエリ"
 
 msgid "Response"
-msgstr "応答"
+msgstr "menjawab"
 
 msgid "Filter"
 msgstr "フィルター"
@@ -372,49 +372,49 @@ msgid "All"
 msgstr "すべて"
 
 msgid "Period"
-msgstr "期間"
+msgstr "periode"
 
 msgid "Display Mode"
-msgstr "表示モード"
+msgstr "cepatモード"
 
 msgid "This Year"
-msgstr "今年"
+msgstr "tahun ini"
 
 msgid "Week"
-msgstr "今週"
+msgstr "minggu ini"
 
 msgid "Month"
-msgstr "今月"
+msgstr "bulan ini"
 
 msgid "Year"
-msgstr "今年"
+msgstr "tahun ini"
 
 msgid "Queries Only"
 msgstr "クエリのみ"
 
 msgid "Responses Only"
-msgstr "応答のみ"
+msgstr "menjawabのみ"
 
 msgid "Search"
-msgstr "検索"
+msgstr "検JADI"
 
 msgid "Search Domain"
-msgstr "ドメインを検索"
+msgstr "ドメインを検JADI"
 
 msgid "Search Device"
-msgstr "デバイスを検索"
+msgstr "デバイスを検JADI"
 
 msgid "Search DNS Server"
-msgstr "DNSサーバーを検索"
+msgstr "DNSサーバーを検JADI"
 
 msgid "Clear"
 msgstr "クリア"
 
 msgid "Previous"
-msgstr "前へ"
+msgstr "majuへ"
 
 msgid "Next"
-msgstr "次へ"
+msgstr "Kelas duaへ"
 
 msgid "Page"
 msgstr "ページ"
@@ -423,73 +423,73 @@ msgid "of"
 msgstr "の"
 
 msgid "Total"
-msgstr "合計"
+msgstr "total"
 
 msgid "records"
-msgstr "件の記録"
+msgstr "bagian-bagianのcatatan"
 
 msgid "Per Page"
 msgstr "ページあたり"
 
 msgid ""
-msgstr "件"
+msgstr "bagian-bagian"
 
 msgid "Total Queries"
-msgstr "総クエリ数"
+msgstr "総クエリnomor"
 
 msgid "Total Responses"
-msgstr "総応答数"
+msgstr "Nomor jawaban"
 
 msgid "Queries with Response"
-msgstr "応答ありクエリ"
+msgstr "menjawabありクエリ"
 
 msgid "Queries without Response"
-msgstr "応答なしクエリ"
+msgstr "menjawabなしクエリ"
 
 msgid "Avg Response Time"
-msgstr "平均応答時間"
+msgstr "waktu respons rata-rata"
 
 msgid "Min Response Time"
-msgstr "最短応答時間"
+msgstr "Waktu respons minimal"
 
 msgid "Max Response Time"
-msgstr "最長応答時間"
+msgstr "Waktu respons maksimum"
 
 msgid "Success Rate"
-msgstr "成功率"
+msgstr "tingkat keberhasilan"
 
 msgid "Success"
-msgstr "成功"
+msgstr "kesuksesan"
 
 msgid "Failure"
-msgstr "失敗"
+msgstr "Gagal"
 
 msgid "Top Domains"
-msgstr "最もクエリされたドメイン"
+msgstr "palingもクエリされたドメイン"
 
 msgid "Top Query Types"
-msgstr "最も使用されたクエリタイプ"
+msgstr "palingもmenggunakanされたクエリタイプ"
 
 msgid "Top Devices"
-msgstr "最もアクティブなデバイス"
+msgstr "palingもアクティブなデバイス"
 
 msgid "Top DNS Servers"
-msgstr "最も使用されたDNSサーバー"
+msgstr "palingもmenggunakanされたDNSサーバー"
 
 msgid "Unique Devices"
-msgstr "ユニークデバイス数"
+msgstr "ユニークデバイスnomor"
 
 msgid "ms"
-msgstr "ミリ秒"
+msgstr "ミリKedua"
 
 msgid "minutes"
-msgstr "分"
+msgstr "titik"
 
 msgid "Unknown Device"
-msgstr "不明なデバイス"
+msgstr "tidak dikenalなデバイス"
 
 msgid "Domain not found"
-msgstr "ドメインが見つかりません"
+msgstr "ドメインがmelihatつかりません"
 
 msgid "Server error"
 msgstr "サーバーエラー"
@@ -498,22 +498,22 @@ msgid "Format error"
 msgstr "フォーマットエラー"
 
 msgid "Refused"
-msgstr "拒否"
+msgstr "Menolak"
 
 msgid "Other"
-msgstr "その他"
+msgstr "そのDia"
 
 msgid "Does not include DoH and DoT"
-msgstr "DoH と DoT は含まれません"
+msgstr "DoH と DoT はBerisiまれません"
 
 msgid "Latest Response Time"
-msgstr "最新の応答時間"
+msgstr "terkiniのWaktu menjawab"
 
 msgid "Response Code Distribution"
-msgstr "応答コード分布"
+msgstr "menjawabコードdidistribusikan"
 
 msgid "Response Time Percentiles"
-msgstr "応答時間パーセンタイル"
+msgstr "Waktu menjawabパーセンタイル"
 
 msgid "P50"
 msgstr "P50"
@@ -528,16 +528,16 @@ msgid "P99"
 msgstr "P99"
 
 msgid "Bandix Connection Monitor"
-msgstr "Bandix 接続モニター"
+msgstr "Bandix Menerimaモニター"
 
 msgid "Connection Monitor"
-msgstr "接続モニター"
+msgstr "Menerimaモニター"
 
 msgid "Device Connection Statistics"
-msgstr "デバイス接続統計"
+msgstr "デバイスTerima statistik"
 
 msgid "Global Connection Statistics"
-msgstr "グローバル接続統計"
+msgstr "グローバルTerima statistik"
 
 msgid "Active TCP"
 msgstr "アクティブTCP"
@@ -549,19 +549,19 @@ msgid "Closed TCP"
 msgstr "クローズTCP"
 
 msgid "Total Connections"
-msgstr "総接続数"
+msgstr "Jumlah 総 続"
 
 msgid "Last Updated"
-msgstr "最終更新"
+msgstr "pembaruan terakhir"
 
 msgid "TCP Connections"
-msgstr "TCP接続数"
+msgstr "TCPJumlah pilihan"
 
 msgid "UDP Connections"
-msgstr "UDP接続数"
+msgstr "UDPJumlah pilihan"
 
 msgid "Established TCP"
-msgstr "確立済みTCP"
+msgstr "Membangun penyelesaianみTCP"
 
 msgid "TIME_WAIT TCP"
 msgstr "TIME_WAIT TCP"
@@ -570,76 +570,76 @@ msgid "CLOSE_WAIT TCP"
 msgstr "CLOSE_WAIT TCP"
 
 msgid "Total Devices"
-msgstr "デバイス総数"
+msgstr "デバイスJumlah horoskop"
 
 msgid "Connection Monitor Disabled"
-msgstr "接続モニターが無効です"
+msgstr "MenerimaモニターがTidak sahです"
 
 msgid "Please enable connection monitoring in settings"
-msgstr "設定で接続モニターを有効にしてください"
+msgstr "PengaturanでMenerimaモニターをsahにしてください"
 
 msgid "List only shows LAN device connections, data may differ from total connections."
-msgstr "リストはLANデバイス接続のみを表示します。データは総接続数と異なる場合があります。"
+msgstr "リストはLANデバイスMenerimaのみをcepatします。データはJumlah 総 続とberbedaなるkesempatanがあります。"
 
 msgid "TCP Status Details"
-msgstr "TCP 状態詳細"
+msgstr "TCP rincian status"
 
 msgid "Basic Settings"
-msgstr "基本設定"
+msgstr "Pengaturan dasar"
 
 msgid "Traffic Monitor Settings"
-msgstr "トラフィックモニター設定"
+msgstr "トラフィックモニターPengaturan"
 
 msgid "Connection Monitor Settings"
-msgstr "接続モニター設定"
+msgstr "MenerimaモニターPengaturan"
 
 msgid "DNS Monitor Settings"
-msgstr "DNSモニター設定"
+msgstr "DNSモニターPengaturan"
 
 msgid "Bandix Basic Configuration"
-msgstr "Bandix 基本設定"
+msgstr "Bandix Pengaturan dasar"
 
 msgid "Configure basic parameters for Bandix service"
-msgstr "Bandix サービスの基本パラメータを設定"
+msgstr "Bandix サービスのdasarパラメータをPengaturan"
 
 msgid "Bandix Traffic Monitor Configuration"
-msgstr "Bandix トラフィックモニター設定"
+msgstr "Bandix トラフィックモニターPengaturan"
 
 msgid "Configure traffic monitoring related parameters"
-msgstr "トラフィック監視関連のパラメータを設定"
+msgstr "トラフィックhubungan pemantauanのパラメータをPengaturan"
 
 msgid "Bandix Connection Monitor Configuration"
-msgstr "Bandix 接続モニター設定"
+msgstr "Bandix MenerimaモニターPengaturan"
 
 msgid "Configure connection monitoring related parameters"
-msgstr "接続監視関連のパラメータを設定"
+msgstr "Terima hubungan pengawasanのパラメータをPengaturan"
 
 msgid "Bandix DNS Monitor Configuration"
-msgstr "Bandix DNSモニター設定"
+msgstr "Bandix DNSモニターPengaturan"
 
 msgid "Configure DNS monitoring related parameters"
-msgstr "DNS監視関連のパラメータを設定"
+msgstr "DNShubungan pemantauanのパラメータをPengaturan"
 
 msgid "Enable"
-msgstr "有効"
+msgstr "sah"
 
 msgid "Enable Bandix Traffic Monitor Service"
-msgstr "Bandix トラフィックモニターサービスを有効にする"
+msgstr "Bandix トラフィックモニターサービスをsahにする"
 
 msgid "Enable Traffic Monitoring"
-msgstr "トラフィック監視を有効にする"
+msgstr "トラフィックmemantauをsahにする"
 
 msgid "Enable Connection Monitoring"
-msgstr "接続監視を有効にする"
+msgstr "Menerima pengawasanをsahにする"
 
 msgid "Enable DNS Monitoring"
-msgstr "DNS監視を有効にする"
+msgstr "DNSmemantauをsahにする"
 
 msgid "Simplified Chinese"
-msgstr "簡体字中国語"
+msgstr "Cina Sederhana"
 
 msgid "Traditional Chinese"
-msgstr "繁体字中国語"
+msgstr "Cina Tradisional"
 
 msgid "Port"
 msgstr "ポート"
@@ -648,34 +648,34 @@ msgid "Port for Bandix service to listen on"
 msgstr "Bandix サービスがリッスンするポート"
 
 msgid "TC Priority"
-msgstr "TC 優先度"
+msgstr "TC prioritas"
 
 msgid "Set TC filter priority to better coexist with other eBPF TC programs. Lower numbers indicate higher priority. 0 means system-assigned."
-msgstr "TC フィルターの優先度を設定して、他の eBPF TC プログラムとより良く共存できるようにします。数値が小さいほど優先度が高くなります。0 はシステム割り当てを意味します。"
+msgstr "TC フィルターのprioritasをPengaturanして、Diaの eBPF TC プログラムとよりBagusくhidup bersamaできるようにします。nilaiがKecilさいほどprioritasがtinggiくなります。0 はシステムmemotongりKapanてをberartiします。"
 
 msgid "Monitor Interface"
-msgstr "監視インターフェース"
+msgstr "memantauインターフェース"
 
 msgid "Select the LAN network interface to monitor"
-msgstr "監視するLANネットワークインターフェースを選択"
+msgstr "memantauするLANネットワークインターフェースをMemilih"
 
 msgid "Speed Units"
-msgstr "速度単位"
+msgstr "satuan kecepatan"
 
 msgid "Select the speed display unit format"
-msgstr "速度表示の単位形式を選択"
+msgstr "indikasi kecepatanのbentuk satuanをMemilih"
 
 msgid "Bytes Units (B/s, KB/s, MB/s)"
-msgstr "バイト単位 (B/s, KB/s, MB/s)"
+msgstr "バイトsatuan (B/s, KB/s, MB/s)"
 
 msgid "Bits Units (bps, Kbps, Mbps)"
-msgstr "ビット単位 (bps, Kbps, Mbps)"
+msgstr "ビットsatuan (bps, Kbps, Mbps)"
 
 msgid "Interface Theme"
 msgstr "インターフェーステーマ"
 
 msgid "Select the display theme for Bandix Traffic Monitor"
-msgstr "Bandix トラフィックモニターの表示テーマを選択"
+msgstr "Bandix トラフィックモニターのcepatテーマをMemilih"
 
 msgid "Follow System"
 msgstr "システムに従う"
@@ -693,100 +693,100 @@ msgid "Log Level"
 msgstr "ログレベル"
 
 msgid "Set the log level for Bandix service"
-msgstr "Bandix サービスのログレベルを設定"
+msgstr "Bandix サービスのログレベルをPengaturan"
 
 msgid "Offline Timeout"
 msgstr "オフラインタイムアウト"
 
 msgid "Set the timeout for device offline detection (seconds). Devices inactive for longer than this time will be marked as offline"
-msgstr "デバイスのオフライン検出のタイムアウトを設定（秒）。この時間より長く非アクティブなデバイスはオフラインとしてマークされます"
+msgstr "デバイスのオフライン検出のタイムアウトをPengaturan（Kedua）。このwaktuよりpanjangくTIDAKアクティブなデバイスはオフラインとしてマークされます"
 
 msgid "Realtime Traffic Period"
-msgstr "リアルタイムトラフィック周期"
+msgstr "リアルタイムトラフィックsiklus"
 
 msgid "10 minutes interval uses about 60 KB per device"
-msgstr "10分間隔でデバイスあたり約60KBを使用"
+msgstr "10dibagi menjadi beberapa intervalでデバイスあたりmembuat janji60KBをmenggunakan"
 
 msgid "Data Flush Interval"
-msgstr "データフラッシュ間隔"
+msgstr "データフラッシュselang"
 
 msgid "Set the interval for flushing data to disk"
-msgstr "データをディスクにフラッシュする間隔を設定"
+msgstr "データをディスクにフラッシュするselangをPengaturan"
 
 msgid "1 minute"
-msgstr "1分"
+msgstr "1titik"
 
 msgid "5 minutes"
-msgstr "5分"
+msgstr "5titik"
 
 msgid "10 minutes"
-msgstr "10分"
+msgstr "10titik"
 
 msgid "15 minutes"
-msgstr "15分"
+msgstr "15titik"
 
 msgid "20 minutes"
-msgstr "20分"
+msgstr "20titik"
 
 msgid "25 minutes"
-msgstr "25分"
+msgstr "25titik"
 
 msgid "30 minutes"
-msgstr "30分"
+msgstr "30titik"
 
 msgid "1 hour"
-msgstr "1時間"
+msgstr "1waktu"
 
 msgid "2 hours"
-msgstr "2時間"
+msgstr "2waktu"
 
 msgid "12 hours"
-msgstr "12時間"
+msgstr "12waktu"
 
 msgid "24 hours"
-msgstr "24時間"
+msgstr "24waktu"
 
 msgid "Data Directory"
 msgstr "データディレクトリ"
 
 msgid "If you change the directory, please manually add it to the backup directory"
-msgstr "ディレクトリを変更した場合は、手動でバックアップディレクトリに追加してください"
+msgstr "ディレクトリをMengubahしたkesempatanは、petunjukでバックアップディレクトリにMenambahkanしてください"
 
 msgid "Bandix data storage directory"
 msgstr "Bandix データストレージディレクトリ"
 
 msgid "Enable Bandix connection monitoring"
-msgstr "Bandix 接続監視を有効にする"
+msgstr "Bandix Menerima pengawasanをsahにする"
 
 msgid "Enable Bandix DNS monitoring"
-msgstr "Bandix DNS監視を有効にする"
+msgstr "Bandix DNSmemantauをsahにする"
 
 msgid "DNS Max Records"
-msgstr "DNS最大記録数"
+msgstr "DNSJumlah maksimum catatan"
 
 msgid "Set the maximum number of DNS query records to keep. Older records will be deleted when this limit is exceeded"
-msgstr "保持するDNSクエリ記録の最大数を設定。この制限を超えると古い記録が削除されます"
+msgstr "MenyimpanするDNSクエリcatatanのjumlah maksimumをPengaturan。このmembatasiをmenyusulえるとjaman dahuluいcatatanがmemotongされます"
 
 msgid "Persist DNS Data"
-msgstr "DNSデータを永続化"
+msgstr "DNSデータをYongzhuhua"
 
 msgid "Enable DNS data persistence functionality, data will only be persisted to disk when this option is enabled"
-msgstr "DNSデータ永続化機能を有効にする。このオプションが有効な場合のみデータがディスクに永続化されます"
+msgstr "DNSデータFungsi kimia abadiをsahにする。このオプションがsahなkesempatanのみデータがディスクにYongzhuhuaされます"
 
 msgid "DNS Data Flush Interval"
-msgstr "DNSデータフラッシュ間隔"
+msgstr "DNSデータフラッシュselang"
 
 msgid "Set the interval for flushing DNS data to disk"
-msgstr "DNSデータをディスクにフラッシュする間隔を設定"
+msgstr "DNSデータをディスクにフラッシュするselangをPengaturan"
 
 msgid "Persist History Data"
-msgstr "履歴データを永続化"
+msgstr "melanjutkanデータをYongzhuhua"
 
 msgid "Enable data persistence functionality, data will only be persisted to disk when this option is enabled"
-msgstr "データ永続化機能を有効にする。このオプションが有効な場合のみデータがディスクに永続化されます"
+msgstr "データFungsi kimia abadiをsahにする。このオプションがsahなkesempatanのみデータがディスクにYongzhuhuaされます"
 
 msgid "Does not occupy storage space, stored only in memory"
-msgstr "ストレージ容量を占有せず、メモリにのみ保存"
+msgstr "ストレージkapasitasをmemilikiせず、メモリにのみmenyimpan"
 
 msgid "Query & Response"
 msgstr "クエリとレスポンス"
@@ -798,100 +798,100 @@ msgid "Responses"
 msgstr "レスポンス"
 
 msgid "Average Response Time"
-msgstr "平均応答時間"
+msgstr "waktu respons rata-rata"
 
 msgid "Show More"
-msgstr "もっと見る"
+msgstr "もっとmelihatる"
 
 msgid "Show Less"
-msgstr "閉じる"
+msgstr "menutupじる"
 
 msgid "Add Schedule Rule"
-msgstr "スケジュール制限ルールを追加"
+msgstr "スケジュールmembatasiルールをMenambahkan"
 
 msgid "Add Rule"
-msgstr "ルールを追加"
+msgstr "ルールをMenambahkan"
 
 msgid "Set rate limit rules for different time periods"
-msgstr "異なる時間帯にレート制限ルールを設定"
+msgstr "berbedaなるzona waktuにレートmembatasiルールをPengaturan"
 
 msgid "Time Slot"
-msgstr "時間帯"
+msgstr "zona waktu"
 
 msgid "Days of Week"
-msgstr "曜日"
+msgstr "Minggu"
 
 msgid "Mon"
-msgstr "月"
+msgstr "bulan"
 
 msgid "Tue"
-msgstr "火"
+msgstr "api"
 
 msgid "Wed"
-msgstr "水"
+msgstr "air"
 
 msgid "Thu"
-msgstr "木"
+msgstr "Kayu"
 
 msgid "Fri"
-msgstr "金"
+msgstr "emas"
 
 msgid "Sat"
-msgstr "土"
+msgstr "bumi"
 
 msgid "Sun"
-msgstr "日"
+msgstr "hari"
 
 msgid "Adding..."
-msgstr "追加中..."
+msgstr "Menambahkan..."
 
 msgid "Failed to add schedule rule: "
-msgstr "スケジュール制限ルールの追加に失敗しました："
+msgstr "スケジュールmembatasiルールのMenambahkanにGagalしました："
 
 msgid "Please set time slot"
-msgstr "時間帯を設定してください"
+msgstr "zona waktuをPengaturanしてください"
 
 msgid "Please select at least one day"
-msgstr "少なくとも1日を選択してください"
+msgstr "sedikitなくとも1hariをMemilihしてください"
 
 msgid "No scheduled rules yet, click \"Add Rule\" to start setting"
-msgstr "スケジュール制限ルールがまだありません。「ルールを追加」をクリックして設定を開始してください"
+msgstr "スケジュールmembatasiルールがまだありません。「ルールをMenambahkan」をクリックしてPengaturanをAwalしてください"
 
 msgid "Loading..."
-msgstr "読み込み中..."
+msgstr "mengenaliみ込みtengah..."
 
 msgid "Loading in chunks, please wait... (%d/%d)"
-msgstr "分割読み込み中です。しばらくお待ちください... (%d/%d)"
+msgstr "segmentasiみ込みtengahです。しばらくおmerawatちください... (%d/%d)"
 
 msgid "No schedule rules"
-msgstr "スケジュール制限ルールなし"
+msgstr "スケジュールmembatasiルールなし"
 
 msgid "Failed to load schedule rules"
-msgstr "スケジュール制限ルールの読み込みに失敗しました"
+msgstr "スケジュールmembatasiルールのmengenaliみ込みにGagalしました"
 
 msgid "Delete Schedule Rule"
-msgstr "スケジュール制限ルールを削除"
+msgstr "スケジュールmembatasiルールをmemotong"
 
 msgid "Are you sure you want to delete this schedule rule?"
-msgstr "このスケジュール制限ルールを削除してもよろしいですか？"
+msgstr "このスケジュールmembatasiルールをmemotongしてもよろしいですか？"
 
 msgid "Failed to delete schedule rule"
-msgstr "スケジュール制限ルールの削除に失敗しました"
+msgstr "スケジュールmembatasiルールのmemotongにGagalしました"
 
 msgid "Delete Device"
-msgstr "デバイスを削除"
+msgstr "デバイスをmemotong"
 
 msgid "Are you sure you want to delete this device? Traffic history will be removed."
-msgstr "このデバイスを削除してもよろしいですか？トラフィック履歴も削除されます。"
+msgstr "このデバイスをmemotongしてもよろしいですか？トラフィックmelanjutkanもmemotongされます。"
 
 msgid "Failed to delete device"
-msgstr "デバイスの削除に失敗しました"
+msgstr "デバイスのmemotongにGagalしました"
 
 msgid "Confirm"
-msgstr "確認"
+msgstr "Mengonfirmasi"
 
 msgid "Close"
-msgstr "閉じる"
+msgstr "menutupじる"
 
 msgid "rule"
 msgstr "ルール"
@@ -900,43 +900,43 @@ msgid "rules"
 msgstr "ルール"
 
 msgid "more"
-msgstr "その他"
+msgstr "そのDia"
 
 msgid "No active rule"
 msgstr "アクティブなルールなし"
 
 msgid "Schedule Rules"
-msgstr "スケジュール制限ルール"
+msgstr "スケジュールmembatasiルール"
 
 msgid "Upload Statistics"
-msgstr "アップロード統計"
+msgstr "アップロードstatistik"
 
 msgid "Download Statistics"
-msgstr "ダウンロード統計"
+msgstr "ダウンロードstatistik"
 
 msgid "Cumulative Traffic"
-msgstr "累積トラフィック"
+msgstr "mengumpulkanトラフィック"
 
 msgid "Daily"
-msgstr "日次"
+msgstr "hari"
 
 msgid "Weekly"
-msgstr "週次"
+msgstr "Mingguan"
 
 msgid "Monthly"
-msgstr "月次"
+msgstr "Bulanan"
 
 msgid "Statistics"
-msgstr "統計"
+msgstr "statistik"
 
 msgid "Average"
-msgstr "平均"
+msgstr "rata-rata"
 
 msgid "Maximum"
-msgstr "最大"
+msgstr "maksimum"
 
 msgid "Minimum"
-msgstr "最小"
+msgstr "terkecil"
 
 msgid "WAN Upload"
 msgstr "WAN アップロード"
@@ -945,109 +945,109 @@ msgid "WAN Download"
 msgstr "WAN ダウンロード"
 
 msgid "WAN Uploaded"
-msgstr "WAN アップロード量"
+msgstr "WAN アップロードkuantitas"
 
 msgid "WAN Downloaded"
-msgstr "WAN ダウンロード量"
+msgstr "WAN ダウンロードkuantitas"
 
 msgid "Clear Traffic Data"
-msgstr "トラフィックデータを削除"
+msgstr "トラフィックデータをmemotong"
 
 msgid "Are you sure you want to clear all traffic data? This action cannot be undone."
-msgstr "すべてのトラフィックデータを削除してもよろしいですか？この操作は元に戻せません。"
+msgstr "すべてのトラフィックデータをmemotongしてもよろしいですか？このberoperasiはYuanに戻せません。"
 
 msgid "Failed to clear traffic data: "
-msgstr "トラフィックデータの削除に失敗しました："
+msgstr "トラフィックデータのmemotongにGagalしました："
 
 msgid "Restart Service"
-msgstr "サービス再起動"
+msgstr "サービスmemulai ulang"
 
 msgid "Restart Bandix Service"
-msgstr "Bandix サービスを再起動"
+msgstr "Bandix サービスをmemulai ulang"
 
 msgid "Are you sure you want to restart the Bandix service?"
-msgstr "Bandix サービスを再起動してもよろしいですか？"
+msgstr "Bandix サービスをmemulai ulangしてもよろしいですか？"
 
 msgid "Failed to restart service: "
-msgstr "サービスの再起動に失敗しました："
+msgstr "サービスのmemulai ulangにGagalしました："
 
 msgid "Realtime"
 msgstr "リアルタイム"
 
 msgid "Last 24 Hours"
-msgstr "過去24時間"
+msgstr "masa lalu24waktu"
 
 msgid "Last 7 Days"
-msgstr "過去7日間"
+msgstr "masa lalu7siang hari"
 
 msgid "Last 30 Days"
-msgstr "過去30日間"
+msgstr "masa lalu30siang hari"
 
 msgid "Last 10 Minutes"
-msgstr "過去10分"
+msgstr "masa lalu10titik"
 
 msgid "Last 15 Minutes"
-msgstr "過去15分"
+msgstr "masa lalu15titik"
 
 msgid "Last 30 Minutes"
-msgstr "過去30分"
+msgstr "masa lalu30titik"
 
 msgid "Last 1 Hour"
-msgstr "過去1時間"
+msgstr "masa lalu1waktu"
 
 msgid "Starting installation..."
-msgstr "インストールを開始しています..."
+msgstr "インストールをAwalしています..."
 
 msgid "Page will refresh in 3 seconds."
-msgstr "3秒後にページが更新されます。"
+msgstr "3beberapa detik kemudianにページがmemperbaruiされます。"
 
 msgid "Installation failed"
-msgstr "インストール失敗"
+msgstr "インストールGagal"
 
 msgid "Installation failed at step: "
-msgstr "インストールがステップで失敗しました："
+msgstr "インストールがステップでGagalしました："
 
 msgid "Details: "
-msgstr "詳細："
+msgstr "Terperinci："
 
 msgid "Installation failed: "
-msgstr "インストール失敗："
+msgstr "インストールGagal："
 
 msgid "Unknown error"
-msgstr "不明なエラー"
+msgstr "tidak dikenalなエラー"
 
 msgid "Service restarted successfully."
-msgstr "サービスが正常に再起動されました。"
+msgstr "サービスがnormalにmemulai ulangされました。"
 
 msgid "Service restart may have failed. Please check manually."
-msgstr "サービスの再起動が失敗した可能性があります。手動で確認してください。"
+msgstr "サービスのmemulai ulangがGagalしたkemungkinanがあります。petunjukでMengonfirmasiしてください。"
 
 msgid "Please restart the service."
-msgstr "サービスを再起動してください。"
+msgstr "サービスをmemulai ulangしてください。"
 
 msgid "LuCI App updated successfully!"
-msgstr "LuCIアプリが正常に更新されました！"
+msgstr "LuCIアプリがnormalにmemperbaruiされました！"
 
 msgid "Bandix updated successfully!"
-msgstr "Bandixが正常に更新されました！"
+msgstr "Bandixがnormalにmemperbaruiされました！"
 
 msgid "LuCI App has update: "
-msgstr "LuCIアプリに更新があります："
+msgstr "LuCIアプリにmemperbaruiがあります："
 
 msgid "Bandix has update: "
-msgstr "Bandixに更新があります："
+msgstr "Bandixにmemperbaruiがあります："
 
 msgid "LuCI App is up to date: "
-msgstr "LuCIアプリは最新です："
+msgstr "LuCIアプリはterkiniです："
 
 msgid "Bandix is up to date: "
-msgstr "Bandixは最新です："
+msgstr "Bandixはterkiniです："
 
 msgid "Updates Available"
-msgstr "利用可能な更新"
+msgstr "Pemanfaatannya mungkinなmemperbarui"
 
 msgid "No Updates Available"
-msgstr "利用可能な更新なし"
+msgstr "Pemanfaatannya mungkinなmemperbaruiなし"
 
 msgid "Detected Architecture"
 msgstr "検出されたアーキテクチャ"
@@ -1062,82 +1062,82 @@ msgid "Bandix Assets"
 msgstr "Bandixアセット"
 
 msgid "Failed to check for updates"
-msgstr "更新の確認に失敗しました"
+msgstr "memperbaruiのMengonfirmasiにGagalしました"
 
 msgid "Failed to check for updates: "
-msgstr "更新の確認に失敗しました："
+msgstr "memperbaruiのMengonfirmasiにGagalしました："
 
 msgid "Checking..."
-msgstr "確認中..."
+msgstr "Mengonfirmasi..."
 
 msgid "Check for Updates"
-msgstr "更新を確認"
+msgstr "memperbaruiをMengonfirmasi"
 
 msgid "Installing..."
-msgstr "インストール中..."
+msgstr "インストールtengah..."
 
 msgid "Download and Install"
 msgstr "ダウンロードしてインストール"
 
 msgid "Manual Download"
-msgstr "手動ダウンロード"
+msgstr "petunjukダウンロード"
 
 msgid "Close"
-msgstr "閉じる"
+msgstr "menutupじる"
 
 msgid "Starting installation... The page will refresh automatically in 30 seconds."
-msgstr "インストールを開始しています... ページは30秒後に自動的に更新されます。"
+msgstr "インストールをAwalしています... ページは30beberapa detik kemudianにotomatisにmemperbaruiされます。"
 
 msgid "Please clear your browser cache manually after updating."
-msgstr "更新後、ブラウザのキャッシュを手動でクリアしてください。"
+msgstr "Setelah pembaruan、ブラウザのキャッシュをpetunjukでクリアしてください。"
 
 msgid "Traffic Statistics"
-msgstr "トラフィック統計"
+msgstr "トラフィックstatistik"
 
 msgid "Traffic Statistics"
-msgstr "トラフィック統計"
+msgstr "トラフィックstatistik"
 
 msgid "Device Usage Ranking"
-msgstr "デバイス使用量ランキング"
+msgstr "デバイスPenggunaanランキング"
 
 msgid "Start Date"
-msgstr "開始日"
+msgstr "tanggal mulai"
 
 msgid "End Date"
-msgstr "終了日"
+msgstr "hari akhir"
 
 msgid "Reset"
 msgstr "リセット"
 
 msgid "Today"
-msgstr "今日"
+msgstr "Hari ini"
 
 msgid "This Week"
-msgstr "今週"
+msgstr "minggu ini"
 
 msgid "Last Week"
-msgstr "先週"
+msgstr "Xianzhou"
 
 msgid "This Month"
-msgstr "今月"
+msgstr "bulan ini"
 
 msgid "Last Month"
-msgstr "先月"
+msgstr "Bulan pertama"
 
 msgid "Last 90 Days"
-msgstr "過去90日"
+msgstr "masa lalu90hari"
 
 msgid "Last Year"
-msgstr "過去1年"
+msgstr "masa lalu1Tahun"
 
 msgid "Traffic Timeline"
 msgstr "トラフィックタイムライン"
 
 msgid "Aggregation:"
-msgstr "集計："
+msgstr "agregat："
 
 msgid "Hourly"
-msgstr "時間単位"
+msgstr "satuan waktu"
 
 msgid "Device:"
 msgstr "デバイス："
@@ -1146,112 +1146,112 @@ msgid "Traffic Push URL"
 msgstr "トラフィックプッシュURL"
 
 msgid "Push traffic data to a remote HTTP endpoint (POST JSON). Leave empty to disable."
-msgstr "トラフィックデータをリモートHTTPエンドポイントにプッシュ（POST JSON）。無効にする場合は空のままにします。"
+msgstr "トラフィックデータをリモートHTTPエンドポイントにプッシュ（POST JSON）。Tidak sahにするkesempatanはbatalのままにします。"
 
 msgid "Device Event Push URL"
 msgstr "デバイスイベントプッシュURL"
 
 msgid "Push device online/offline events to a remote HTTP endpoint (POST JSON on state change). Leave empty to disable."
-msgstr "デバイスのオンライ/オフラインイベントをリモートHTTPエンドポイントにプッシュ（状態変更時にPOST JSON）。無効にする場合は空のままにします。"
+msgstr "デバイスのオンライ/オフラインイベントをリモートHTTPエンドポイントにプッシュ（Ketika status berubahにPOST JSON）。Tidak sahにするkesempatanはbatalのままにします。"
 
 msgid "Additional Subnets"
-msgstr "追加サブネット"
+msgstr "Menambahkanサブネット"
 
 msgid "Additional local subnets (comma-separated CIDR notation, e.g. '192.168.2.0/24,10.0.0.0/8'). Leave empty to use only interface subnet."
-msgstr "追加のローカルサブネット（カンマ区切りのCIDR表記、例：'192.168.2.0/24,10.0.0.0/8'）。インターフェースサブネットのみを使用する場合は空のままにします。"
+msgstr "Menambahkanのローカルサブネット（カンマMembedakanりのCIDRtanda、contoh：'192.168.2.0/24,10.0.0.0/8'）。インターフェースサブネットのみをmenggunakanするkesempatanはbatalのままにします。"
 
 msgid "Exclude Interface Device"
-msgstr "インターフェースデバイスを除外"
+msgstr "インターフェースデバイスをkecuali"
 
 msgid "Exclude the router itself (interface device) from traffic statistics"
-msgstr "トラフィック統計からルーター自体（インターフェースデバイス）を除外する"
+msgstr "トラフィックstatistikからルーターdiri sendiri（インターフェースデバイス）をkecualiする"
 
 msgid "Enable Neighbor Flush"
-msgstr "ネイバーテーブルフラッシュを有効にする"
+msgstr "ネイバーテーブルフラッシュをsahにする"
 
 msgid "Enable periodic flush of neighbor table data. Generally not recommended if the device list works normally."
-msgstr "ネイバーテーブルデータの定期フラッシュを有効にします。デバイスリストが正常に動作している場合は、通常は有効にしないことをお勧めします。"
+msgstr "ネイバーテーブルデータのbiasaフラッシュをsahにします。デバイスリストがnormalにtindakanしているkesempatanは、umumnyaはsahにしないことをお勧めします。"
 
 msgid "Neighbor Flush Interval"
-msgstr "ネイバーテーブルフラッシュ間隔"
+msgstr "ネイバーテーブルフラッシュselang"
 
 msgid "Set the interval for flushing neighbor table data"
-msgstr "ネイバーテーブルデータのフラッシュ間隔を設定"
+msgstr "ネイバーテーブルデータのフラッシュselangをPengaturan"
 
 msgid "No devices"
 msgstr "デバイスなし"
 
 msgid "LAN Traffic is viewed from the entire subnet perspective, so upload and download are always equal, forming a closed loop. Additionally, due to the presence of dedicated hardware switching chips, LAN traffic between 2 devices (e.g., PC - NAS) within the local network may not be monitorable."
-msgstr "LANトラフィックはサブネット全体の視点から見られるため、アップロードとダウンロードは常に等しく、閉ループを形成します。さらに、専用ハードウェアスイッチングチップの存在により、ローカルネットワーク内の2つのデバイス（例：PC - NAS）間のLANトラフィックは監視できない可能性があります。"
+msgstr "LANトラフィックはサブネットSemuaのsudut pandangからmelihatられるため、アップロードとダウンロードはseringにTungguしく、menutupループをmembentukします。さらに、Eksklusifハードウェアスイッチングチップのadaにより、ローカルネットワークDi dalamの2つのデバイス（contoh：PC - NAS）di antaraのLANトラフィックはmemantauできないkemungkinanがあります。"
 
 msgid "Protocol"
 msgstr "プロトコル"
 
 msgid "State"
-msgstr "状態"
+msgstr "Status"
 
 msgid "Send"
-msgstr "送信"
+msgstr "Kirim surat"
 
 msgid "Reply"
-msgstr "応答"
+msgstr "menjawab"
 
 msgid "Flags"
 msgstr "フラグ"
 
 msgid "Loading…"
-msgstr "読み込み中…"
+msgstr "mengenaliみ込みtengah…"
 
 msgid "No connections"
-msgstr "接続なし"
+msgstr "Menerimaなし"
 
 msgid "pkts"
 msgstr "パケット"
 
 msgid "Failed to load"
-msgstr "読み込み失敗"
+msgstr "mengenaliみ込みGagal"
 
 msgid "Connection Details"
-msgstr "接続詳細"
+msgstr "Terima detailnya"
 
 msgid "Details"
-msgstr "詳細"
+msgstr "Terperinci"
 
 msgid "Orig Src"
-msgstr "送信元"
+msgstr "kirim elemen pesan"
 
 msgid "Orig Dst"
-msgstr "送信先"
+msgstr "Kirim suratnya dulu"
 
 msgid "Repl Src"
-msgstr "応答元"
+msgstr "応达元"
 
 msgid "Repl Dst"
-msgstr "応答先"
+msgstr "Jawab dulu"
 
 msgid "TC backend"
 msgstr "TCバックエンド"
 
 msgid "Select TC attach backend. Recommendation: use auto by default; tcx is preferred on kernel >= 6.6; netlink is safer on older kernels."
-msgstr "TCアタッチのバックエンドを選択します。推奨: 既定ではautoを使用し、カーネル>= 6.6ではtcxを優先、古いカーネルではnetlinkの方が安全です。"
+msgstr "TCアタッチのバックエンドをMemilihします。dorongan: didirikanではautoをmenggunakanし、カーネル>= 6.6ではtcxをPrioritas、jaman dahuluいカーネルではnetlinkのpersegiがKeamananです。"
 
 msgid "TC order"
-msgstr "TC順序"
+msgstr "TCmemesan"
 
 msgid "Netlink priority"
-msgstr "Netlink優先度"
+msgstr "Netlinkprioritas"
 
 msgid "Only used when backend is netlink. Range: 0..65535 (0 means default)."
-msgstr "backendがnetlinkの場合のみ使用します。範囲: 0..65535（0は既定）。"
+msgstr "backendがnetlinkのkesempatanのみmenggunakanします。Fanwei: 0..65535（0はdidirikan）。"
 
 msgid "TCX ingress anchor program id"
 msgstr "TCX ingressアンカープログラムID"
 
 msgid "Used when tc_order is before/after. Must be a valid ingress program id on the same interface."
-msgstr "tc_orderがbefore/afterのときに使用します。同じインターフェース上の有効なingressプログラムIDである必要があります。"
+msgstr "tc_orderがbefore/afterのときにmenggunakanします。samaじインターフェースunggulのsahなingressプログラムIDであるdiperlukanがあります。"
 
 msgid "TCX egress anchor program id"
 msgstr "TCX egressアンカープログラムID"
 
 msgid "Used when tc_order is before/after. Must be a valid egress program id on the same interface."
-msgstr "tc_orderがbefore/afterのときに使用します。同じインターフェース上の有効なegressプログラムIDである必要があります。"
+msgstr "tc_orderがbefore/afterのときにmenggunakanします。samaじインターフェースunggulのsahなegressプログラムIDであるdiperlukanがあります。"
