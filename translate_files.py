@@ -4,9 +4,9 @@ import time
 from deep_translator import GoogleTranslator
 from multiprocessing import Pool, cpu_count
 
-target_folder = "luci-app-bandix/po/id"
+target_folder = "luci-app-bandix/htdocs/luci-static/resources/view/bandix"
 
-translator = GoogleTranslator(source='fr', target='id')
+translator = GoogleTranslator(source='en', target='id')
 
 chinese_pattern = re.compile(r'[\u4e00-\u9fff]+')
 
@@ -36,7 +36,7 @@ if __name__ == "__main__":
     for root, _, files in os.walk(target_folder):
         for file_name in files:
             file_path = os.path.join(root, file_name)
-            if file_path.endswith((".po")):
+            if file_path.endswith((".js")):
                 files_to_translate.append(file_path)
 
     print(f"Found {len(files_to_translate)} files to translate.")
