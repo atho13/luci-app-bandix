@@ -87,7 +87,7 @@ var callGetConnection=rpc.declare({object:'luci.bandix',method:'getConnection',e
                 margin-top: 0;
             }
             
-            /* 移动端统计卡片布局 */
+            /* foto bisnis */
             @media (max-width: 768px) {
                 .stats-grid {
                     grid-template-columns: 1fr;
@@ -102,7 +102,7 @@ var callGetConnection=rpc.declare({object:'luci.bandix',method:'getConnection',e
                     font-size: 1.75rem;
                 }
                 
-                /* 移动端设备列表卡片式布局 */
+                /* foto bisnis */
                 .bandix-table {
                     display: none; /* 移动端隐藏表格 */
                 }
@@ -249,7 +249,7 @@ var callGetConnection=rpc.declare({object:'luci.bandix',method:'getConnection',e
                 border-top-color: rgba(255, 255, 255, 0.15);
             }
             
-            /* PC端显示表格，隐藏卡片 */
+            /* PC端显示表格，jam tangan foto */
             @media (min-width: 769px) {
                 .bandix-table {
                     display: table;

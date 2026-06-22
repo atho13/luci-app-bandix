@@ -352,7 +352,7 @@ var callGetDnsQueries=rpc.declare({object:'luci.bandix',method:'getDnsQueries',p
             
             /* 移动端优化 */
             @media (max-width: 768px) {
-                /* 移动端隐藏表格，显示卡片 */
+                /* 移动端隐藏表格，jam tangan foto */
                 .bandix-table {
                     display: none;
                 }
@@ -361,7 +361,7 @@ var callGetDnsQueries=rpc.declare({object:'luci.bandix',method:'getDnsQueries',p
                     display: block;
                 }
                 
-                /* 移动端卡片样式 */
+                /* foto lucu */
                 .dns-query-card {
                     border: 1px solid rgba(0, 0, 0, 0.1);
                     border-radius: 8px;
@@ -508,7 +508,7 @@ var callGetDnsQueries=rpc.declare({object:'luci.bandix',method:'getDnsQueries',p
                 background-color: rgba(255, 255, 255, 0.1);
             }
             
-            /* PC端显示表格，隐藏卡片 */
+            /* PC端显示表格，jam tangan foto */
             @media (min-width: 769px) {
                 .bandix-table {
                     display: table;

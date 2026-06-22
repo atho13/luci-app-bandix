@@ -98,7 +98,7 @@ var callStatus=rpc.declare({object:'luci.bandix',method:'getStatus',params:['sta
             }
             
             
-            /* 移动端隐藏版本信息和更新徽章 */
+            /* ilmu kedokteran */
             @media (max-width: 768px) {
                 .bandix-version-wrapper {
                     display: none;
@@ -338,7 +338,7 @@ var callStatus=rpc.declare({object:'luci.bandix',method:'getStatus',params:['sta
                 gap: 2px;
             }
 
-   /* 类型联动的高亮与弱化 */
+   /* 型联动的高亮与弱化 */
             
             
             .device-info {
@@ -619,7 +619,7 @@ var callStatus=rpc.declare({object:'luci.bandix',method:'getStatus',params:['sta
             }
             
             
-            /* 模态框样式 */
+            /* 态框样式 */
             .bandix-modal-overlay {
                 position: fixed;
                 top: 0;
@@ -1145,12 +1145,12 @@ var callStatus=rpc.declare({object:'luci.bandix',method:'getStatus',params:['sta
                     display: none !important;
                 }
                 
-                /* 移动端隐藏设备模式切换按钮 */
+                /* 动端隐藏设备模式切换按钮 */
                 .device-mode-group {
                     display: none !important;
                 }
                 
-                /* 移动端设备列表卡片式布局 */
+                /* foto bisnis */
                 .bandix-table {
                     display: none; /* 移动端隐藏表格 */
                 }
@@ -1262,7 +1262,7 @@ var callStatus=rpc.declare({object:'luci.bandix',method:'getStatus',params:['sta
                     font-size: 0.875rem;
                 }
                 
-                /* LAN流量样式（移动端直接显示） */
+                /* LAN流量样式（foto） */
                 .device-card-lan {
                     margin-top: 12px;
                     padding-top: 12px;
@@ -1329,7 +1329,7 @@ var callStatus=rpc.declare({object:'luci.bandix',method:'getStatus',params:['sta
                 }
             }
             
-            /* PC端显示表格，隐藏卡片 */
+            /* PC端显示表格，jam tangan foto */
             @media (min-width: 769px) {
                 .bandix-table {
                     display: table;
@@ -1361,7 +1361,7 @@ var callStatus=rpc.declare({object:'luci.bandix',method:'getStatus',params:['sta
             .history-tooltip .ht-key { opacity: 0.7; }
             .history-tooltip .ht-val { }
    .history-tooltip .ht-device { margin-top: 4px; margin-bottom: 6px; opacity: 0.7; font-size: 0.75rem; }
-   /* 强调关键信息的排版 */
+   /* foto bisnis */
    .history-tooltip .ht-kpis { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 2px; margin-bottom: 6px; }
    .history-tooltip .ht-kpi .ht-k-label { opacity: 0.7; font-size: 0.75rem; }
    .history-tooltip .ht-kpi .ht-k-value { font-size: 1rem; font-weight: 700; }
@@ -2018,7 +2018,7 @@ var callStatus=rpc.declare({object:'luci.bandix',method:'getStatus',params:['sta
     font-size: 0.875rem;
    }
    
-   /* 统计区域头部和控制 */
+   /* 统区域头部和控制 */
    .traffic-stats-header {
     display: flex;
     align-items: center;
@@ -2266,14 +2266,14 @@ var callStatus=rpc.declare({object:'luci.bandix',method:'getStatus',params:['sta
      margin-bottom: 12px;
     }
     
-    /* Traffic Timeline 的日期选择器使用相同的 usage-ranking-* 类名，已在上面覆盖 */
+    /* Traffic Timeline 的日期选择器使相同的 usage-ranking-* 类名，已在上面覆盖 */
     
     /* 图表 */
     .traffic-increments-chart {
      height: 250px;
     }
     
-    /* 摘要卡片 */
+    /* 摘要 foto */
     .traffic-increments-summary {
      grid-template-columns: 1fr;
      gap: 8px;
