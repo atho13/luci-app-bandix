@@ -96,14 +96,14 @@ jobs:
         run: |
           echo "CONFIG_PACKAGE_luci-app-bandix=m" > .config
           echo "CONFIG_LUCI_LANG_zh_Hans=y" >> .config
-          echo "CONFIG_LUCI_LANG_zh_Hant=y" >> .config
-          echo "CONFIG_LUCI_LANG_ja=y" >> .config
-          echo "CONFIG_LUCI_LANG_fr=y" >> .config
-          echo "CONFIG_LUCI_LANG_ru=y" >> .config
-          echo "CONFIG_LUCI_LANG_id=y" >> .config
-          echo "CONFIG_LUCI_LANG_pl=y" >> .config
-          echo "CONFIG_LUCI_LANG_th=y" >> .config
-          echo "CONFIG_LUCI_LANG_es=y" >> .config
+          #echo "CONFIG_LUCI_LANG_zh_Hant=y" >> .config
+          #echo "CONFIG_LUCI_LANG_ja=y" >> .config
+          #echo "CONFIG_LUCI_LANG_fr=y" >> .config
+          #echo "CONFIG_LUCI_LANG_ru=y" >> .config
+          #echo "CONFIG_LUCI_LANG_id=y" >> .config
+          #echo "CONFIG_LUCI_LANG_pl=y" >> .config
+          #echo "CONFIG_LUCI_LANG_th=y" >> .config
+          #echo "CONFIG_LUCI_LANG_es=y" >> .config
       - name: Setup OpenWrt SDK
         uses: openwrt/gh-action-sdk@main
         env:
